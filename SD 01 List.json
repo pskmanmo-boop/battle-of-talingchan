@@ -1,0 +1,198 @@
+[
+  {
+    "id": "TAL-AVA-01",
+    "name": "Avatar 01",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2001.png",
+    "cost": 6,
+    "Color": "Red",
+    "Power": 5
+  },
+  {
+    "id": "TAL-AVA-02",
+    "name": "Avatar 02",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2002.png",
+    "cost": 4,
+    "Color": "Red",
+    "Power": 4
+  },
+  {
+    "id": "TAL-AVA-03",
+    "name": "Avatar 03",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2003.png",
+    "cost": 2,
+    "Color": "Red",
+    "Power": 2
+  },
+  {
+    "id": "TAL-AVA-04",
+    "name": "Avatar 04",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2004.png",
+    "cost": 1,
+    "Color": "Red",
+    "Power": 1
+  },
+  {
+    "id": "TAL-AVA-05",
+    "name": "Avatar 05",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2005.png",
+    "cost": 3,
+    "Color": "Red",
+    "Power": 5
+  },
+  {
+    "id": "TAL-AVA-06",
+    "name": "Avatar 06",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2006.png",
+    "cost": 0,
+    "Color": "Red",
+    "Power": 0
+  },
+  {
+    "id": "TAL-AVA-07",
+    "name": "Avatar 07",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2007.png",
+    "cost": 1,
+    "Color": "Red",
+    "Power": 3
+  },
+  {
+    "id": "TAL-AVA-08",
+    "name": "Avatar 08",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2008.png",
+    "cost": 1,
+    "Color": "Red",
+    "Power": 4
+  },
+  {
+    "id": "TAL-AVA-09",
+    "name": "Avatar 09",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2009.png",
+    "cost": 2,
+    "Color": "Red",
+    "Power": 2
+  },
+  {
+    "id": "TAL-AVA-10",
+    "name": "Avatar 10",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2010.png",
+    "cost": 0,
+    "Color": "Red",
+    "Power": 3
+  },
+  {
+    "id": "TAL-AVA-11",
+    "name": "Avatar 11",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2011.png",
+    "cost": 0,
+    "Color": "Red",
+    "Power": 1
+  },
+  {
+    "id": "TAL-AVA-12",
+    "name": "Avatar 12",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2012.png",
+    "cost": 1,
+    "Color": "Red",
+    "Power": 2
+  },
+  {
+    "id": "TAL-AVA-13",
+    "name": "Avatar 13",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2013.png",
+    "cost": 1,
+    "Color": "Red",
+    "Power": 1
+  },
+  {
+    "id": "TAL-AVA-14",
+    "name": "Avatar 14",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2014.png",
+    "cost": 4,
+    "Color": "Red",
+    "Power": 4
+  },
+  {
+    "id": "TAL-AVA-15",
+    "name": "Avatar 15",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2015.png",
+    "cost": 5,
+    "Color": "Red",
+    "Power": 5
+  },
+
+{
+  "id": "TAL-MAG-01",
+  "name": "Magic 01",
+  "type": "Magic",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Magic%2001.png"
+},
+{
+  "id": "TAL-MAG-02",
+  "name": "Magic 02",
+  "type": "Magic",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Magic%2002.png"
+},
+{
+  "id": "TAL-REA-01",
+  "name": "React Magic 01",
+  "type": "React Magic",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/React%20Magic%2001.png"
+},
+{
+  "id": "TAL-LAND-01",
+  "name": "Land Magic 01",
+  "type": "Land Magic",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Land%20Magic%2001.png"
+},
+{
+  "id": "TAL-MOD-01",
+  "name": "Modification Magic 01",
+  "type": "Modification Magic",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Modification%20Magic%2001.png"
+},
+{
+  "id": "TAL-LIFE-01",
+  "name": "Life 01",
+  "type": "Life",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2001.png"
+},
+{
+  "id": "TAL-LIFE-02",
+  "name": "Life 02",
+  "type": "Life",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2002.png"
+},
+{
+  "id": "TAL-LIFE-03",
+  "name": "Life 03",
+  "type": "Life",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2003.png"
+},
+{
+  "id": "TAL-LIFE-04",
+  "name": "Life 04",
+  "type": "Life",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2004.png"
+},
+{
+  "id": "TAL-LIFE-05",
+  "name": "Life 05",
+  "type": "Life",
+  "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2005.png"
+}
+]
