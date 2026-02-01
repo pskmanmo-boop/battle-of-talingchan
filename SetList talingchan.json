@@ -1,0 +1,119 @@
+[
+  
+  {
+    "id": "TAL-AVA-01",
+    "name": "Avatar 01",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2001.png",
+    "cost": 0,
+    "Color": "Red",
+    "Power": 1
+  },
+  {
+    "id": "TAL-AVA-02",
+    "name": "Avatar 02",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2002.png",
+    "cost": 0,
+    "Color": "Red",
+    "Power": 1
+  },
+  {
+    "id": "TAL-AVA-03",
+    "name": "Avatar 03",
+    "type": "Avatar",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Avatar%2003.png",
+    "cost": 0,
+    "Color": "Red",
+    "Power": 1
+  },
+
+  
+  {
+    "id": "TAL-MAG-01",
+    "name": "Magic 01",
+    "type": "Magic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Magic%2001.png"
+  },
+  {
+    "id": "TAL-MAG-02",
+    "name": "Magic 02",
+    "type": "Magic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Magic%2002.png"
+  },
+
+ 
+
+  {
+    "id": "TAL-REA-01",
+    "name": "React Magic 01",
+    "type": "ReactMagic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/React%20Magic%2001.png"
+  },
+  {
+    "id": "TAL-REA-02",
+    "name": "React Magic 02",
+    "type": "ReactMagic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/React%20Magic%2002.png"
+  },
+
+ 
+  {
+    "id": "TAL-LAND-01",
+    "name": "Land Magic 01",
+    "type": "LandMagic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Land%20Magic%2001.png"
+  },
+
+  
+  {
+    "id": "TAL-MOD-01",
+    "name": "Modification Magic 01",
+    "type": "ModificationMagic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Modification%20Magic%2001.png"
+  },
+  {
+    "id": "TAL-MOD-02",
+    "name": "Modification Magic 02",
+    "type": "ModificationMagic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Modification%20Magic%2002.png"
+  },
+  {
+    "id": "TAL-MOD-03",
+    "name": "Modification Magic 03",
+    "type": "ModificationMagic",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Modification%20Magic%2003.png"
+  },
+
+ 
+  {
+    "id": "TAL-LIFE-01",
+    "name": "Life 01",
+    "type": "Life",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2001.png"
+  },
+  {
+    "id": "TAL-LIFE-02",
+    "name": "Life 02",
+    "type": "Life",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2002.png"
+  },
+  {
+    "id": "TAL-LIFE-03",
+    "name": "Life 03",
+    "type": "Life",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2003.png"
+  },
+  {
+    "id": "TAL-LIFE-04",
+    "name": "Life 04",
+    "type": "Life",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2004.png"
+  },
+  {
+    "id": "TAL-LIFE-05",
+    "name": "Life 05",
+    "type": "Life",
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/Life%2005.png"
+  }
+]
