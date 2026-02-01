@@ -1,0 +1,243 @@
+{
+  "SD01-001": {
+    "id": "SD01-001",
+    "name": "พระอิศวร",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-001.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 5,
+      "cost": 6
+    }
+  },
+  "SD01-002": {
+    "id": "SD01-002",
+    "name": "พระนารายณ์",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-002.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 4,
+      "cost": 4
+    }
+  },
+  "SD01-003": {
+    "id": "SD01-003",
+    "name": "พระอินทร์",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-003.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 2,
+      "cost": 2
+    }
+  },
+  "SD01-004": {
+    "id": "SD01-004",
+    "name": "นนทก",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-004.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 1,
+      "cost": 1
+    }
+  },
+  "SD01-005": {
+    "id": "SD01-005",
+    "name": "เมียพระอิศวร",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-005.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 5,
+      "cost": 3
+    }
+  },
+  "SD01-006": {
+    "id": "SD01-006",
+    "name": "ช่างแอร์ดวงซวย",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-006.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 0,
+      "cost": 0
+    }
+  },
+  "SD01-007": {
+    "id": "SD01-007",
+    "name": "เทวดานักมวย",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-007.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 3,
+      "cost": 1
+    }
+  },
+  "SD01-008": {
+    "id": "SD01-008",
+    "name": "เทวดาแบงค์",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-008.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 4,
+      "cost": 1
+    }
+  },
+  "SD01-009": {
+    "id": "SD01-009",
+    "name": "เด็กถ่ายเอกสาร",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-009.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 2,
+      "cost": 2
+    }
+  },
+  "SD01-010": {
+    "id": "SD01-010",
+    "name": "เทวดาตัวเปิด",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-010.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 3,
+      "cost": 0
+    }
+  },
+  "SD01-011": {
+    "id": "SD01-011",
+    "name": "ยักษ์ล้างส้วม",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-011.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 1,
+      "cost": 0
+    }
+  },
+  "SD01-012": {
+    "id": "SD01-012",
+    "name": "ยักษ์แบกปูน",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-012.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 2,
+      "cost": 1
+    }
+  },
+  "SD01-013": {
+    "id": "SD01-013",
+    "name": "เทวดาจิตบำบัด",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-013.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 1,
+      "cost": 1
+    }
+  },
+  "SD01-014": {
+    "id": "SD01-014",
+    "name": "เทวดาเลื่อยยนต์",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-014.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 4,
+      "cost": 4
+    }
+  },
+  "SD01-015": {
+    "id": "SD01-015",
+    "name": "วิรุฬหก",
+    "types": ["Avatar"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-015.png",
+    "attributes": {
+      "Color": "Red",
+      "Power": 5,
+      "cost": 5
+    }
+  },
+
+
+
+  "SD01-016": {
+    "id": "SD01-016",
+    "name": "น้ำแดง",
+    "types": ["Magic"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-016.png",
+    "attributes": {}
+  },
+  "SD01-017": {
+    "id": "SD01-017",
+    "name": "อุบัติเหตุ!!!",
+    "types": ["Magic"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-017.png",
+    "attributes": {}
+  },
+  "SD01-018": {
+    "id": "SD01-018",
+    "name": "ความยุติธรรมสำหรับนนทก",
+    "types": ["Magic"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-018.png",
+    "attributes": {}
+  },
+  "SD01-019": {
+    "id": "SD01-019",
+    "name": "ฮ่าฮ่าฮ่า ผมได้เลื่อนขั้น",
+    "types": ["Magic"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-019.png",
+    "attributes": {}
+  },
+  "SD01-020": {
+    "id": "SD01-020",
+    "name": "เขาไกรลาส",
+    "types": ["Magic"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-020.png",
+    "attributes": {}
+  },
+
+ 
+
+  "SD01-021": {
+    "id": "SD01-021",
+    "name": "ไม่นะ อิศวร !",
+    "types": ["Life"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-021.png",
+    "attributes": {}
+  },
+  "SD01-022": {
+    "id": "SD01-022",
+    "name": "ไม่นะ นนทก !",
+    "types": ["Life"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-022.png",
+    "attributes": {}
+  },
+  "SD01-023": {
+    "id": "SD01-023",
+    "name": "ไม่นะ อัปสร !",
+    "types": ["Life"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-023.png",
+    "attributes": {}
+  },
+  "SD01-024": {
+    "id": "SD01-024",
+    "name": "ไม่นะ ซาร่า !",
+    "types": ["Life"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-024.png",
+    "attributes": {}
+  },
+  "SD01-025": {
+    "id": "SD01-025",
+    "name": "ไม่นะ หลวงพ่อ !",
+    "types": ["Life"],
+    "image": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD01-025.png",
+    "attributes": {}
+  }
+}
