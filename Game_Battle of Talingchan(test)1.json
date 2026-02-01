@@ -1,0 +1,122 @@
+{
+  "name": "Battle of Talingchan(test)",
+  "menuBackgroundImage": "https://static.wikia.nocookie.net/pasulol/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20220917144827&path-prefix=th",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://static.wikia.nocookie.net/pasulol/images/3/39/Site-community-image/revision/latest/scale-to-width-down/1200?cb=20220917144827&path-prefix=th"
+    ],
+    "decksUrl": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/refs/heads/main/SD%2001.json"
+  },
+  "customHelp": "Drag your cards from Deck to HP manually",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/refs/heads/main/SD%2001%20List.json",
+    "cardBack": "https://github.com/pskmanmo-boop/battle-of-talingchan/blob/main/BT07-059%20(MAGIC)%20-%20(SEC).png?raw=true"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Avatar",
+      "color",
+      "Magic",
+      "React Magic",
+      "Modification Magic",
+      "Land Magic"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "เปลี่ยนมือ",
+        "startingHandSize": "5",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": "1"
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Avatar Zone",
+          "Magic Zone",
+          "Land",
+          "Construct",
+          "Life",
+          "Hand"
+        ],
+        "layout": {
+          "direction": "column",
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Construct",
+                  "style": false
+                },
+                {
+                  "section": "Land",
+                  "style": false
+                },
+                {
+                  "section": "Construct",
+                  "style": false
+                },
+                {
+                  "section": "life",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": true
+            },
+            {
+              "direction": "column",
+              "style": false,
+              "content": [
+                {
+                  "section": "Avatar",
+                  "style": false
+                },
+                {
+                  "section": "Magic Zone",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ],
+          "isSymetricalForOpponents": true
+        },
+        "categoriesAlreadyOnBoard": [
+          "Dack"
+        ],
+        "autoPlayFromHand": {
+          "Avatar": "Avatar Zone",
+          "Magic": "Magic Zone",
+          "Land Magic": "Magic Zone",
+          "React Magic": "Magic Zone",
+          "Modification Magic": "Magic Zone"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {}
+      }
+    }
+  }
+}
