@@ -1,0 +1,96 @@
+{
+  "name": "Battle of Talingchan",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/board-bg.png",
+
+  "defaultRessources": {
+    "backgrounds": [
+      "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/board-bg.png"
+    ],
+    "decksUrl": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/StarterDeck.json"
+  },
+
+  "customHelp": "Drag cards to Avatar or Magic zones to play.",
+  "cardRotation": 90,
+
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/SD%2001%20List.json",
+    "cardBack": "https://raw.githubusercontent.com/pskmanmo-boop/battle-of-talingchan/main/SD01/card-back.png"
+  },
+
+  "deckBuilding": {
+    "mainFilters": ["type", "Color", "Power"],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "Avatar",
+          "Magic",
+          "React Magic",
+          "Land Magic",
+          "Modification Magic",
+          "Life"
+        ]
+      }
+    ]
+  },
+
+  "gameplay": {
+    "Classic": {
+      "newTurn": {
+        "drawOnStart": true,
+        "drawPerTurn": 1
+      },
+
+      "sections": {
+        "customSections": [
+          "Avatar_Zone",
+          "Magic_Zone",
+          "Life_Zone",
+          "Land_Magic",
+          "Main_Deck",
+          "Discard",
+          "Hand"
+        ],
+
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": true,
+          "content": [
+            {
+              "direction": "column",
+              "content": [
+                {
+                  "direction": "row",
+                  "content": [
+                    { "section": "Land_Magic" },
+                    { "section": "Avatar_Zone" }
+                  ]
+                },
+                { "section": "Magic_Zone" },
+                { "section": "Life_Zone" }
+              ]
+            },
+            {
+              "section": "Hand",
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+
+        "autoPlayFromHand": {
+          "Avatar": "Avatar_Zone",
+          "Magic": "Magic_Zone",
+          "Land Magic": "Land_Magic",
+          "Life": "Life_Zone"
+        },
+
+        "autoPlayFromStack": {
+          "Magic": "Discard",
+          "React Magic": "Discard",
+          "Modification Magic": "Discard"
+        }
+      }
+    }
+  }
+}
