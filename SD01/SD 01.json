@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Battle of Talingchan SD 01",
+    "id": "talingchan-sd-01",
+    "game": "BattleOfTalingchanV1",
+    "format": ["Classic"],
+    "cardCount": 55,
+    "createdAt": "2026-02-01T00:00:00.000Z",
+    "lastModifiedAt": "2026-02-01T00:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Avatar",
+        "Magic",
+        "Life",
+        "React Magic",
+        "Land Magic",
+        "Modification Magic"
+      ],
+      "Sideboard": [],
+
+      "Avatar": [
+        { "count": 2, "id": "TAL-AVA-01" },
+        { "count": 2, "id": "TAL-AVA-02" },
+        { "count": 2, "id": "TAL-AVA-03" },
+        { "count": 2, "id": "TAL-AVA-04" },
+        { "count": 1, "id": "TAL-AVA-05" },
+        { "count": 4, "id": "TAL-AVA-06" },
+        { "count": 4, "id": "TAL-AVA-07" },
+        { "count": 4, "id": "TAL-AVA-08" },
+        { "count": 4, "id": "TAL-AVA-09" },
+        { "count": 3, "id": "TAL-AVA-10" },
+        { "count": 3, "id": "TAL-AVA-11" },
+        { "count": 2, "id": "TAL-AVA-12" },
+        { "count": 3, "id": "TAL-AVA-13" },
+        { "count": 2, "id": "TAL-AVA-14" },
+        { "count": 2, "id": "TAL-AVA-15" }
+      ],
+
+      "Land Magic": [
+        { "count": 2, "id": "TAL-LND-01" }
+      ],
+
+      "Magic": [
+        { "count": 2, "id": "TAL-MAG-01" },
+        { "count": 2, "id": "TAL-MAG-02" }
+      ],
+
+      "Modification Magic": [
+        { "count": 2, "id": "TAL-MOD-01" }
+      ],
+
+      "React Magic": [
+        { "count": 2, "id": "TAL-REA-01" }
+      ],
+
+      "Life": [
+        { "count": 1, "id": "TAL-LIF-01" },
+        { "count": 1, "id": "TAL-LIF-02" },
+        { "count": 1, "id": "TAL-LIF-03" },
+        { "count": 1, "id": "TAL-LIF-04" },
+        { "count": 1, "id": "TAL-LIF-05" }
+      ]
+    }
+  }
+]
